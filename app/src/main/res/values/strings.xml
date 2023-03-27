@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SeguridadUANL</string>
+    <string name="usuario"> USUARIO</string>
+    <string name="logo_uanl">logo_uanl</string>
+    <string name="password">CONTRASEÑA</string>
+    <string name="start">Ingresar</string>
+    <string name="seguridad_de_la_comunidad">Seguridad de la comunidad</string>
+    <string name="reporte_instantaneo">Realizar reporte instántaneo</string>
+    <string name="realizar_reporte_detallado">Realizar reporte detallado</string>
+    <string name="historial_de_reportes">Historial de reportes</string>
+    <string name="servicio_de_seguridad_uanl">Servicio de seguridad UANL</string>
+    <string name="menu_de_usuario">Menu de usuario</string>
+    <string name="uanl_logo">Logo UANL</string>
+    <string name="regresar">Regresar</string>
+    <string name="icono_seguridad">Icono seguridad</string>
+    <string name="tipo_de_reporte">Tipo de reporte</string>
+    <string name="reporte_a_seguridad">Reporte a seguridad</string>
+    <string name="generar_reporte">Generar reporte</string>
+    <string name="descripcion">Descripción</string>
+    <string name="pregunta_ayuda">¿Necesita ayuda inmediata?\nSe enviara la ayuda en base a su ubicación</string>
+    <string name="realizar_reporte">Realizar reporte</string>
+    <string name="reporte">Reporte #</string>
+
+</resources>
